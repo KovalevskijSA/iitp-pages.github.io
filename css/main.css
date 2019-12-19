@@ -1,0 +1,15 @@
+.content {
+  width:100%;
+  padding: 1%;
+  font-family: sans-serif;
+  font-size: 3em;
+}
+
+.list {
+  list-style: none;
+  list-style-position: 0;
+}
+
+.footer {
+  
+}
